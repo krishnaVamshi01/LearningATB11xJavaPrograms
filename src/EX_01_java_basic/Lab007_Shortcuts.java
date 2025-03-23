@@ -1,4 +1,4 @@
-package ex_01_java_basic;
+package EX_01_java_basic;
 
 public class Lab007_Shortcuts {
     public static void main(String[] args) {
