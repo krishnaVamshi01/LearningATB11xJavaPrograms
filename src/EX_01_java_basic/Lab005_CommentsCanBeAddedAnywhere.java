@@ -1,4 +1,4 @@
-package ex_01_java_basic;
+package EX_01_java_basic;
 //the above one is the package name
 public class Lab005_CommentsCanBeAddedAnywhere {
 //     we are commenting the code now
