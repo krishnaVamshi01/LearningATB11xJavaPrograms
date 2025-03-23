@@ -1,6 +1,6 @@
-package EX_02_Java_Basics_part2;
+package EveryDay_Tasks;
 
-public class LAB015_TASK_WORK {
+public class march_11th_Task {
     public static void main(String[] args) {
         int a = 9;
         int i = 1;
