@@ -8,6 +8,7 @@ public class Lab028_Final_Example {
 
             final float PI = 3.14f;
             // PI = 3.13f; This is final in nature.
+        // you cant change the final !
             System.out.println(PI);
     }
 }
