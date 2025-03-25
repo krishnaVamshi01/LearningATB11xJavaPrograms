@@ -5,6 +5,6 @@ public class Lab004_Comments {
 //    comment 1 writing the main function
 public static void main(String[] args) {
 //    comment 2 executing the program
-    System.out.println("we successfully commentented the program");
+    System.out.println("we successfully commented the program");
 }
 }
