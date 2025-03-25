@@ -8,7 +8,9 @@ public class march_12th_Math_func {
         int z = 10;
         //math.functions
        double result = Math.cbrt(Math.pow(x,2)+Math.pow(y,2)-Math.abs(z));
-        System.out.println(result);
+//        We used double because the result of our calculation is not always a whole number (integer).
+
+                System.out.println(result);
 
     }
 }
