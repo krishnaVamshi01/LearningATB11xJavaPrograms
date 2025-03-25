@@ -16,7 +16,7 @@ public class Lab026_Local_Variable {
         System.out.println(f);
         System.out.println(b1);
         System.out.println(c);
-        System.out.println(c+c);
+        System.out.println(c+c); // according to ASCII 'A'=65
 //        last statement functions as arithmetic operations and the result prints 130
 
     }
