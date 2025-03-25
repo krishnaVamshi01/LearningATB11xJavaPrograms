@@ -10,5 +10,6 @@ public class Lab0014_Variables {
 //                = --> assignment
 //        variable value = 10 --> literal -> integer value
         System.out.println(" byte b = 10 , b is a variable ");
+        System.out.println(b);
     }
 }

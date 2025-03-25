@@ -9,6 +9,8 @@ public class Lab018_Variable_types {
         int yest = 65;
         int this_is_a_vary_long_name_in_the_class_hello_$_akakak = 89;
         System.out.println(this_is_a_vary_long_name_in_the_class_hello_$_akakak);
+        System.out.println(yest);
+        System.out.println($);
 
     }
 }
