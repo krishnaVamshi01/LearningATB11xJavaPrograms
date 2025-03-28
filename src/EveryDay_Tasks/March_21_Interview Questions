@@ -1,0 +1,53 @@
+1) If there is no main method, what will happen?
+Answer: The program will not run.
+Reason: Java needs the "main" method as the entry point.
+
+2) Does the main method return any value?
+Answer: No, it returns nothing.
+Reason: The main method is always void.
+
+3) What is the main method?
+Answer: It is the starting point of a Java program.
+Reason: Java execution begins from main().
+
+4) What is (String[] args) in the main method?
+Answer: It stores command-line arguments.
+Reason: Java allows passing values from the terminal/CLI.
+
+5) Can I replace args with another name like Selenium?
+Answer: Yes.
+Reason: It is just a variable name.
+
+6) public static void main(string args[]) { } – Is this valid?
+Answer: Yes, it is valid.
+Reason:
+- In Java, array notation [] can be placed either after the type (String[] args) or after the variable (String args[]).
+- Both styles are correct, but String[] args is preferred for better readability.
+
+7) public static void main(string[]args) { } – Is this the correct main method? Will it work?
+ Answer: No, it will not work.
+ Reason: 
+- Java is case-sensitive, so string (lowercase) is incorrect.
+- Spacing ([]args vs. [] args) does not matter—both work fine.
+
+8) public static void main(string...args) { } – Will this work?
+Answer: No.
+Reason: string should be String, but ... (varargs) is allowed.
+Example:
+public static void main(String... args) { } → Correct
+
+9) static public void main(String[] args) { } – Is this valid?
+Answer: Yes.
+Reason: The order of public static does not matter.
+
+10) public void static main(String[] args) {} – Is this valid?
+Answer: No.
+Reason: void should be before main().
+
+11) public static main void (String[] args) {} – Is this valid?
+Answer: No.
+Reason: void must come before main.
+
+12) Who Gets the Highest Priority in Execution?
+Answer: The main method.
+Reason: Java starts execution from main().
