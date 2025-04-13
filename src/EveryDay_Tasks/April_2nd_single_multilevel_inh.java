@@ -1,7 +1,7 @@
 package EveryDay_Tasks;
 
 
-public class Single_inheritence {
+public class April_2nd_single_multilevel_inh {
     //    Create a class Animal with a method makeSound().
 //    Create another class Dog that extends Animal and adds a method bark().
 //    Call both methods using the Dog object.
