@@ -17,3 +17,4 @@ public class Lab237_Generics_Method_Fix {
     }
 
 }
+

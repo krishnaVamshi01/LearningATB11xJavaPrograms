@@ -18,4 +18,7 @@ public class Lab239_Generics_List {
 }
 
 
+
+
+
 // List - Collection Framework ->collection of items -> 12,3, pramd, dutta.

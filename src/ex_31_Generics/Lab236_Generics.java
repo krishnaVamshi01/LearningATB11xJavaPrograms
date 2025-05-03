@@ -22,3 +22,6 @@ public class Lab236_Generics {
         return a + b;
     }
 }
+
+
+
